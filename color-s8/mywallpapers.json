@@ -2,86 +2,151 @@
 	"wallpapers": 
 		[
 			{
-				"name": "ShotA",
-				"author": "Someone",
+				"name": "Wallpaper 1",
+				"author": "From the Internet",
 				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/color-s8/wallpapers/default.jpg"
-			},
-			{
-				"name": "ShotB",
-				"author": "Someone",
-				"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
-				"dimensions": "3200x2560"
-			},
-			{
-				"author": "Someone",
-				"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
-				"name": "ShotC",
-				"dimensions": "1280x720",
+				"dimensions": "2400x2400"
 				"copyright": "Credits to its creator"
 			},
 			{
-			    "name": "Wallsplash 1",
-			    "author": "wallsplash",
-			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
-			    "dimensions": "3200x2560",
-			    "copyright": "Free (do whatever you want)"
+				"name": "Wallpaper 2",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/color-s8/wallpapers/2.jpg"
+				"dimensions": "2400x2400"
+				"copyright": "Credits to its creator"
 			},
 			{
-			    "name": "Wallsplash 2",
-			    "author": "wallsplash",
-			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
-			    "dimensions": "3200x2560",
-			    "copyright": "Free (do whatever you want)"
+				"name": "Wallpaper 3",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/color-s8/wallpapers/3.jpg"
+				"dimensions": "2400x2400"
+				"copyright": "Credits to its creator"
 			},
 			{
-			    "name": "Wallsplash 3",
-			    "author": "wallsplash",
-			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png",
-			    "dimensions": "3200x2560",
-			    "copyright": "Free (do whatever you want)"
+				"name": "Wallpaper 4",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/color-s8/wallpapers/4.jpg"
+				"dimensions": "2400x2400"
+				"copyright": "Credits to its creator"
 			},
 			{
-			    "name": "Wallsplash 4",
-			    "author": "wallsplash",
-			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
-			    "dimensions": "3200x2560",
-			    "copyright": "Free (do whatever you want)"
+				"name": "Wallpaper 5",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/color-s8/wallpapers/7.jpg"
+				"dimensions": "2400x2400"
+				"copyright": "Credits to its creator"
 			},
 			{
-			    "name": "Wallsplash 5",
-			    "author": "wallsplash",
-			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
-			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
-			    "dimensions": "3200x2560",
-			    "copyright": "Free (do whatever you want)"
+				"name": "Wallpaper 6",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/color-s8/wallpapers/8.jpg"
+				"dimensions": "2400x2400"
+				"copyright": "Credits to its creator"
 			},
 			{
-			    "name": "Wallsplash 6",
-			    "author": "wallsplash",
-			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
-			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
-			    "dimensions": "3200x2560",
-			    "copyright": "Free (do whatever you want)"
+				"name": "Wallpaper 7",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/color-s8/wallpapers/9.jpg"
+				"dimensions": "2400x2400"
+				"copyright": "Credits to its creator"
 			},
 			{
-			    "name": "Wallsplash 7",
-			    "author": "wallsplash",
-			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
-			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_g.png",
-			    "dimensions": "3200x2560",
-			    "copyright": "Free (do whatever you want)"
+				"name": "Wallpaper 8",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/color-s8/wallpapers/10.jpg"
+				"dimensions": "2400x2400"
+				"copyright": "Credits to its creator"
 			},
 			{
-			    "name": "Wallsplash 8",
-			    "author": "wallsplash",
-			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
-			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_h.png",
-			    "dimensions": "3200x2560",
-			    "copyright": "Free (do whatever you want)"
+				"name": "Wallpaper 9",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/color-s8/wallpapers/11.jpg"
+				"dimensions": "2400x2400"
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 10",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/color-s8/wallpapers/12.jpg"
+				"dimensions": "2400x2400"
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 11",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/color-s8/wallpapers/13.jpg"
+				"dimensions": "2400x2400"
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 12",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/color-s8/wallpapers/14.jpg"
+				"dimensions": "2400x2400"
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 13",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/color-s8/wallpapers/15.jpg"
+				"dimensions": "2400x2400"
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 14",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/color-s8/wallpapers/16.jpg"
+				"dimensions": "2400x2400"
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 15",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/color-s8/wallpapers/17.jpg"
+				"dimensions": "2400x2400"
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 16",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/color-s8/wallpapers/18.jpg"
+				"dimensions": "2400x2400"
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 17",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/color-s8/wallpapers/19.jpg"
+				"dimensions": "2400x2400"
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 18",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/color-s8/wallpapers/21.jpg"
+				"dimensions": "2400x2400"
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 19",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/color-s8/wallpapers/22.jpg"
+				"dimensions": "2400x2400"
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 20",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/color-s8/wallpapers/23.jpg"
+				"dimensions": "2400x2400"
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 21",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/color-s8/wallpapers/24.jpg"
+				"dimensions": "2400x2400"
+				"copyright": "Credits to its creator"
 			}
 		]
 }
