@@ -1,0 +1,89 @@
+{ 
+	"wallpapers": 
+		[
+			{
+				"name": "Wallpaper Default",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/water-color/wallpapers/default.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 1",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/water-color/wallpapers/01.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 2",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/water-color/wallpapers/02.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 3",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/water-color/wallpapers/03.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 4",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/water-color/wallpapers/04.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 5",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/water-color/wallpapers/05.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 6",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/water-color/wallpapers/06.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 7",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/water-color/wallpapers/07.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 8",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/water-color/wallpapers/08.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 9",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/water-color/wallpapers/09.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 10",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/water-color/wallpapers/10.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 11",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/water-color/wallpapers/11.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			}
+		]
+}
