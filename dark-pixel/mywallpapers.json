@@ -2,128 +2,303 @@
 	"wallpapers": 
 		[
 			{
+				"name": "Wallpaper 0",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_default.png",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
 				"name": "Wallpaper 1",
 				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel/wallpapers/1.png",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_1.png",
 				"dimensions": "2400x2400",
 				"copyright": "Credits to its creator"
 			},
 			{
 				"name": "Wallpaper 2",
 				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel/wallpapers/2.jpg",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_2.jpg",
 				"dimensions": "2400x2400",
 				"copyright": "Credits to its creator"
 			},
 			{
 				"name": "Wallpaper 3",
 				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel/wallpapers/3.jpg",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_3.jpg",
 				"dimensions": "2400x2400",
 				"copyright": "Credits to its creator"
 			},
 			{
 				"name": "Wallpaper 4",
 				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel/wallpapers/4.jpg",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_4.jpg",
 				"dimensions": "2400x2400",
 				"copyright": "Credits to its creator"
 			},
 			{
 				"name": "Wallpaper 5",
 				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel/wallpapers/5.jpg",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_5.jpg",
 				"dimensions": "2400x2400",
 				"copyright": "Credits to its creator"
 			},
 			{
 				"name": "Wallpaper 6",
 				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel/wallpapers/6.jpg",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_6.jpg",
 				"dimensions": "2400x2400",
 				"copyright": "Credits to its creator"
 			},
 			{
 				"name": "Wallpaper 7",
 				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel/wallpapers/7.jpg",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_7.jpg",
 				"dimensions": "2400x2400",
 				"copyright": "Credits to its creator"
 			},
 			{
 				"name": "Wallpaper 8",
 				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel/wallpapers/8.jpg",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_8.jpg",
 				"dimensions": "2400x2400",
 				"copyright": "Credits to its creator"
 			},
 			{
 				"name": "Wallpaper 9",
 				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel/wallpapers/9.jpg",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_9.jpg",
 				"dimensions": "2400x2400",
 				"copyright": "Credits to its creator"
 			},
 			{
 				"name": "Wallpaper 10",
 				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel/wallpapers/10.jpg",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_10.jpg",
 				"dimensions": "2400x2400",
 				"copyright": "Credits to its creator"
 			},
 			{
 				"name": "Wallpaper 11",
 				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel/wallpapers/11.jpg",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_11.jpg",
 				"dimensions": "2400x2400",
 				"copyright": "Credits to its creator"
 			},
 			{
 				"name": "Wallpaper 12",
 				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel/wallpapers/12.jpg",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_12.jpg",
 				"dimensions": "2400x2400",
 				"copyright": "Credits to its creator"
 			},
 			{
 				"name": "Wallpaper 13",
 				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel/wallpapers/13.jpg",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_13.jpg",
 				"dimensions": "2400x2400",
 				"copyright": "Credits to its creator"
 			},
 			{
 				"name": "Wallpaper 14",
 				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel/wallpapers/14.jpg",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_14.jpg",
 				"dimensions": "2400x2400",
 				"copyright": "Credits to its creator"
 			},
 			{
 				"name": "Wallpaper 15",
 				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel/wallpapers/15.jpg",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_15.jpg",
 				"dimensions": "2400x2400",
 				"copyright": "Credits to its creator"
 			},
 			{
 				"name": "Wallpaper 16",
 				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel/wallpapers/16.jpg",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_16.jpg",
 				"dimensions": "2400x2400",
 				"copyright": "Credits to its creator"
 			},
 			{
 				"name": "Wallpaper 17",
 				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel/wallpapers/17.jpg",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_17.jpg",
 				"dimensions": "2400x2400",
 				"copyright": "Credits to its creator"
 			},
 			{
 				"name": "Wallpaper 18",
 				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel/wallpapers/18.jpg",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_18.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 19",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_19.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 20",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_20.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 21",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_21.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 22",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_22.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 23",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_23.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 24",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_24.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 25",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_25.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 26",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_26.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 27",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_27.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 28",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_28.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 29",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_29.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 30",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_30.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 31",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_31.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 32",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_32.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 33",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_33.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 34",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_34.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 35",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_35.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 36",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_36.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 37",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_37.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 38",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_38.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 39",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_39.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 40",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_40.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 41",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_41.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 42",
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/iconpacks/master/dark-pixel//wallpapers/pix_dark_42.jpg",
 				"dimensions": "2400x2400",
 				"copyright": "Credits to its creator"
 			}
